@@ -1,7 +1,7 @@
 # Amazon Review Mining with Machine Learning
 
 This project presents an end-to-end machine learning pipeline built on Amazon product review data. It covers clustering, recommendation systems, and sentiment classification using real-world data.
-
+ 
 ---
 
 ## Project Overview
